@@ -1,0 +1,8 @@
+name: seasonalflow
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+
+
+
