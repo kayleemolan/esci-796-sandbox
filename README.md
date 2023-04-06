@@ -22,7 +22,7 @@ Kevin --
 
 Nick --
 
-Madison --
+Madison -- mmquill https://github.com/mmquill/Hydrodataanalysis
 
 Nora --
 
