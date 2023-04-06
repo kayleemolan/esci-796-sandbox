@@ -4,7 +4,7 @@ Sandbox for ESCI 7/896.02 to collaborate
 
 Enter your Git user name here:
 
-Kush -- 
+Kush -- https://github.com/kb1190/kushbasnet.git
 
 Michael -- 
 
