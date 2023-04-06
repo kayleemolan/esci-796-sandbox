@@ -1,5 +1,5 @@
 # esci-796-sandbox
-Sandbox for ESCI 7/896.02 to collaborate
+### Sandbox for ESCI 7/896.02 to collaborate
 
 Enter your Git user name here:
 
