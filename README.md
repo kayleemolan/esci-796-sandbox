@@ -24,7 +24,7 @@ Nick --
 
 Madison --mmquill
 
-Nora -- nksinno
+Nora -- nksinno https://github.com/nksinno/Project
 
 Jon-Erik --
 
