@@ -24,7 +24,7 @@ Nick --
 
 Madison --
 
-Nora --
+Nora -- nksinno
 
 Jon-Erik --
 
