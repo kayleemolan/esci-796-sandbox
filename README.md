@@ -3,7 +3,7 @@ Sandbox for ESCI 7/896.02 to collaborate
 
 Binder associated with the current repo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alightbody/esci-796-sandbox/HEAD)
 
-Enter your Git user name here:
+Enter your Git user name, URL, and Binder badge here:
 
 Kush -- https://github.com/kb1190/kushbasnet.git
 
