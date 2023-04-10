@@ -30,3 +30,5 @@ Nora -- nksinno https://github.com/nksinno/Project
 Jon-Erik -- jetrygg https://github.com/jetrygg/ESCI896_Project
 
 Noah -- nw1012 https://github.com/nw1012/esci796_project
+
+Johnny -- 
