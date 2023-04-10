@@ -1,6 +1,6 @@
 # esci-796-sandbox
 Sandbox for ESCI 7/896.02 to collaborate
-https://mybinder.org/v2/gh/alightbody/esci-796-sandbox/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alightbody/esci-796-sandbox/HEAD)
 
 Enter your Git user name here:
 
