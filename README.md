@@ -15,7 +15,7 @@ Andrew --
 
 Brian -- 
 
-Jeremy -- 
+Jeremy -- jeremy-larkin  
 
 Kaylee -- 
 
@@ -23,7 +23,7 @@ Kevin --
 
 Nick --
 
-Madison --mmquill https://github.com/mmquill/Hydrodataanalysis
+Madison --mmquill
 
 Nora -- nksinno https://github.com/nksinno/Project
 
