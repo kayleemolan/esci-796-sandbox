@@ -21,7 +21,7 @@ Kaylee --
 
 Kevin -- 
 
-Nick --
+Nick -- nquerrazzi https://github.com/nquerrazzi/ESCI796finalproject
 
 Madison --mmquill
 
