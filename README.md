@@ -23,7 +23,7 @@ Kevin --
 
 Nick -- nquerrazzi https://github.com/nquerrazzi/ESCI796finalproject
 
-Madison --mmquill
+Madison --mmquill https://github.com/mmquill/Hydrodataanalysis
 
 Nora -- nksinno https://github.com/nksinno/Project
 
