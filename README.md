@@ -9,7 +9,7 @@ Kush -- https://github.com/kb1190/kushbasnet.git
 
 Michael -- 
 
-Gavin -- https://github.com/gd1080/Project
+Gavin -- https://github.com/gd1080/Project : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gd1080/Project/HEAD)
 
 Andrew -- https://github.com/andrewflem/Final-Project-CO-snow-and-droughts
 
