@@ -21,7 +21,7 @@ Kaylee --
 
 Kevin -- 
 
-Nick -- nquerrazzi https://github.com/nquerrazzi/ESCI796finalproject
+Nick -- nquerrazzi https://github.com/nquerrazzi/ESCI796finalproject  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nquerrazzi/ESCI796finalproject/HEAD)
 
 Madison --mmquill https://github.com/mmquill/Hydrodataanalysis
 
