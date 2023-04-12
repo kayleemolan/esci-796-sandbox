@@ -23,7 +23,7 @@ Kevin --
 
 Nick -- nquerrazzi https://github.com/nquerrazzi/ESCI796finalproject  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nquerrazzi/ESCI796finalproject/HEAD)
 
-Madison --mmquill https://github.com/mmquill/Hydrodataanalysis https://mybinder.org/v2/gh/mmquill/Hydrodataanalysis/905ec2ee64b7e4e4942f5ab6254da0e34576c49c?urlpath=lab%2Ftree%2FFinal%20Project%20Notebook.ipynb
+Madison --mmquill https://github.com/mmquill/Hydrodataanalysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmquill/Hydrodataanalysis/HEAD)
 
 Nora -- nksinno https://github.com/nksinno/Project
 
