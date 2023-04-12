@@ -7,7 +7,7 @@ Enter your Git user name, URL, and Binder badge here:
 
 Kush -- https://github.com/kb1190/kushbasnet.git
 
-Michael -- 
+Michael -- mbidonde19 https://github.com/mbidonde19/ESCI-796 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbidonde19/ESCI-796/HEAD)
 
 Gavin -- https://github.com/gd1080/Project : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gd1080/Project/HEAD)
 
